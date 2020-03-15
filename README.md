@@ -1,2 +1,7 @@
 # Hotel-Management-System
-Hotel webapp using the Django framework and SQL database.
+EECS393 Software Engineering
+Group Members:
+Walter Nam
+Haihan Jiang
+Xiaoyao Ni
+Robert Chen
